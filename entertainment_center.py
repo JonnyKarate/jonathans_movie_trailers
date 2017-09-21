@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
 
+"""The entertainment center module is used to initalize instance of the Movie class"""
+
 seven_samurai = media.Movie("Seven Samurai" ,
                             "Seven samurai defend a village against bandits.",
                             "http://www.gstatic.com/tv/thumb/dvdboxart/5588/p5588_d_v7_aa.jpg",
@@ -31,5 +33,7 @@ vertigo = media.Movie("Vertigo",
                       "https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg",
                       "www.youtube.com/watch?v=Z5jvQwwHQNY")
 
+#Create Array of movies objects
 movies = [seven_samurai, the_princess_bride, ratatouille, the_wackness, the_naked_gun, vertigo]
+#Pass Array as Arg to the open_movies_page method in fresh_tomatoes module
 fresh_tomatoes.open_movies_page(movies)
