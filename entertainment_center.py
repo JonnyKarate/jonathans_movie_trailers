@@ -16,7 +16,7 @@ the_princess_bride = media.Movie("The Princess Bride",
 ratatouille = media.Movie("Ratatouille",
                           "A rat is a chef in Paris",
                           "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
-                          "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg")
+                          "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
 the_wackness = media.Movie("The Wackness",
                            "A teenage weed dealer in New York trades dime bags for therapy sessions.",
