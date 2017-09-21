@@ -12,5 +12,12 @@ A movie trailer website of Jonathan's (that's me) favorite movies.
 1. Run the program by opening the entertainment_center.py file in IDLE and clicking Run Module.
 2. Click a movie poster to play its trailer.
 
+
+**CREATED BY**
+Jonathan Nunez
+- <https://twitter.com/JonathanRNunez>
+- <https://github.com/JonnyKarate>
+
+**WITH THE HELP OF...**
 [Starter Code](https://github.com/udacity/ud036_StarterCode)
 Source Code for a movie trailer website.
