@@ -26,7 +26,7 @@ the_princess_bride = media.Movie(
 ratatouille = media.Movie(
     "Ratatouille",
     "A rat is a chef in Paris",
-    "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+    "https://www.youtube.com/watch?v=c3sBBRxDAqk",
     "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg"
     )
 
